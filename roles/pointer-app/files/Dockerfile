@@ -1,3 +1,4 @@
+## Conteúdo do arquivo Dockerfile
 FROM python:3.7-alpine
 ENV FLASK_APP=app.py
 ENV FLASK_RUN_HOST=0.0.0.0
